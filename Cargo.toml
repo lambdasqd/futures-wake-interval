@@ -1,0 +1,7 @@
+[package]
+name = "futures-example-waker"
+version = "0.1.0"
+authors = ["lambdasqd <lambdasqd@gmail.com>"]
+
+[dependencies]
+futures-preview = { version = "0.3.0-alpha.3" }
