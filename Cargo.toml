@@ -1,5 +1,5 @@
 [package]
-name = "futures-example-waker"
+name = "futures-wake-interval"
 version = "0.1.0"
 authors = ["lambdasqd <lambdasqd@gmail.com>"]
 
